@@ -119,7 +119,7 @@ Example:
 
 **Your Name**
 
-* LinkedIn: [Add Your LinkedIn Link]
+* LinkedIn: https://www.linkedin.com/in/priyanshu-mishra-477338328/
 * Email: priyanshumishra19086@gmail.com
 
 ---
